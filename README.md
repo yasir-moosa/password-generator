@@ -2,6 +2,10 @@
 
 A lightweight Bash script to generate strong random passwords using OpenSSL.
 
+## Latest Version
+The latest script is: `my_password_generator_v2.sh`  
+This version includes improved prompts, multiple password generation, and cleaner output.
+
 ## Features
 - Generate multiple passwords at once.
 - Customizable password length.
